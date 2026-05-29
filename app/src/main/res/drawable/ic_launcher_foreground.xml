@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated, double-nested vector path representing a clean gold Crescent Moon -->
+    <path
+        android:fillColor="#E0A96D"
+        android:pathData="M54,16 C33.01,16 16,33.01 16,54 C16,74.99 33.01,92 54,92 C67.43,92 79.16,84.99 85.76,74.45 C62.33,76.54 42.13,58.07 43.19,34.02 C48.06,23.36 58.74,16 71.07,16 C65.61,16 60.1,16 54,16 Z" />
+
+    <!-- 8-pointed star representing guidance (Fanos/Noor) in the hollow area of crescent -->
+    <path
+        android:fillColor="#FFD59E"
+        android:pathData="M75,41 L76.5,45 L80.5,46.5 L76.5,48 L75,52 L73.5,48 L69.5,46.5 L73.5,45 Z" />
+    <path
+        android:fillColor="#FFD59E"
+        android:pathData="M75,37 L76,40 L79,41 L76,42 L75,45 L74,42 L71,41 L74,40 Z" />
+</vector>
